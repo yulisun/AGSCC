@@ -49,7 +49,7 @@ fprintf(['\n Data loading is completed...... ' '\n'])
 % Niter_SCC: the maximum iteration number of Structure Cycle Consistencyand , Niter_SCC =10 is recommended.
 % eta: 0 < eta < 1, eta = 0.5 is recommended.
 % beta, gamma, lambda: regularization parametes; beta = gamma = 5, lambda = 0.1  are recommended.
-% seg£º balanced parameter of the MRF segmentation¡£ The smaller the lambda, the smoother the CM. 0.025<= seg <=0.1 is recommended.
+% seg: balanced parameter of the MRF segmentation. The smaller the lambda, the smoother the CM. 0.025<= seg <=0.1 is recommended.
 
 opt.Ns = 5000;
 opt.Niter_AGL = 5;
