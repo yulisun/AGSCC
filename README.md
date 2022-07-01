@@ -24,7 +24,9 @@ Please refer to the paper for details. You are more than welcome to use the code
 If you use this code for your research, please cite our paper. Thank you!
 
 Sun, Yuli, et al. "Image Regression with Structure Cycle Consistency for Heterogeneous Change Detection."
-IEEE Transactions on Neural Networks and Learning Systems, 2022
+IEEE Transactions on Neural Networks and Learning Systems, 2022, DOI: 10.1109/TNNLS.2022.3184414.
+
+It is worth noting that the PDF version uploaded here has more content than the published version, especially the ABLATION STUDY is removed from the published version due to page limitations (15 pages) of IEEE TNNLS.
 
 ## Q & A
 
