@@ -30,4 +30,4 @@ It is worth noting that the PDF version uploaded here has more content than the 
 
 ## Q & A
 
-If you have any queries, please do not hesitate to contact me (yulisun@mail.ustc.edu.cn ).
+If you have any queries, please do not hesitate to contact me (sunyuli@mail.ustc.edu.cn ).
