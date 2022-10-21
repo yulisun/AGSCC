@@ -12,10 +12,8 @@ IEEE Transactions on Neural Networks and Learning Systems, 2022
 
 clear;
 close all
-addpath('auxi_funcs')
+addpath(genpath(pwd))
 %% load dataset
-
-addpath('datasets')
 
 % Please note that the forward and backward detection results are not the same. 
 % When the forward result is not satisfactory, try swapping the input order of image_t1 and image_t2 to get the backward change detection result. 
