@@ -11,11 +11,15 @@ Please refer to the paper for details. You are more than welcome to use the code
 
 ===================================================
 
-## Available datasets
+## Available datasets and graphCut algorithm
 
 #6-California is download from Dr. Luigi Tommaso Luppino's webpage (https://sites.google.com/view/luppino/data) and it was downsampled to 875*500 as shown in our paper.
 
 #7-Texas is download from Professor Michele Volpi's webpage at https://sites.google.com/site/michelevolpiresearch/home.
+
+The graphCut algorithm is download from Professor Anton Osokin's webpage at https://github.com/aosokin/graphCutMex_BoykovKolmogorov.
+
+If you use these resources, please cite their relevant papers.
 
 ===================================================
 
@@ -28,6 +32,8 @@ IEEE Transactions on Neural Networks and Learning Systems, 2022, DOI: 10.1109/TN
 
 It is worth noting that the PDF version uploaded here has more content than the published version, especially the ABLATION STUDY is removed from the published version due to page limitations (15 pages) of IEEE TNNLS.
 
-## Q & A
+## Running
 
-If you have any queries, please do not hesitate to contact me (sunyuli@mail.ustc.edu.cn ).
+Unzip the Zip files (GC) and run the AGSCC demo file (tested in Matlab 2016a)! 
+
+If you have any queries, please do not hesitate to contact me (sunyuli@mail.ustc.edu.cn).
